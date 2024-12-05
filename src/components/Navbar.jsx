@@ -16,7 +16,7 @@ const Navbar = () => {
           <a href="https://www.linkedin.com/in/harshavardhanap/" target="_blank"><FaLinkedin/></a>
           <a href="https://github.com/HarshavardhanaP96" target="_blank"><FaGithub/></a>
           <a href="https://x.com/dissolver_96" target="_blank"><FaSquareXTwitter/></a>
-          <a href="https://www.instagram.com/unimaginary_coder/" target="_blank"><FaInstagram/></a>
+          <a href="https://www.instagram.com/_illusionarysoul/" target="_blank"><FaInstagram/></a>
           <a href="https://leetcode.com/u/harsha_157/" target="_blank"><TbBrandLeetcode/></a>
           <a href="https://www.hackerrank.com/profile/harshap_157" target="_blank"><FaHackerrank /></a>
         
