@@ -50,7 +50,7 @@ export const PROJECTS = [
   {
     title: "E-Commerce Website",
     image: project1,
-    reference: "https://www.google.com", //to be updated
+    reference: "https://github.com/HarshavardhanaP96/Ecommerce", //to be updated
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication. admin panel and dashboard",
     technologies: [
@@ -65,7 +65,7 @@ export const PROJECTS = [
   {
     title: "Sudoku Solver",
     image: project2,
-    reference: "https://www.google.com", //to be updated
+    reference: "https://github.com/HarshavardhanaP96/sudoku-solver", //to be updated
     //to be updated
     description:
       "A platsofm that solves the sudoku using backtracking and greedy algorithm",
@@ -74,7 +74,7 @@ export const PROJECTS = [
   {
     title: "Video Streaming Platform",
     image: project3,
-    reference: "https://www.google.com", //to be updated
+    reference: "https://github.com/HarshavardhanaP96/Streaming-platform", //to be updated
     description:
       "It is platform where users can upload the videos and can stream it later. To decrease the loading time, video is fragmented into small chunks so that small chunks will load one after the other instead of all at once.",
     technologies: ["React", "express", "ffmpeg"], //db to be added
